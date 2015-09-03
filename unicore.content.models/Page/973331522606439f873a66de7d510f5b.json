@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "973331522606439f873a66de7d510f5b"
+  ], 
   "id": null, 
   "content": "**Epic Queen Chapter** \r\nCon este programa hacemos visibles mensualmente a 3 mujeres que ya est\u00e1n en la tecnolog\u00eda para que se conviertan en modelos de rol a seguir.\r\n\r\n**Code Party** Durante 3 horas en un fin de semana ni\u00f1as de 6 a 12 a\u00f1os se inspiran mediante ejercicios b\u00e1sicos de programaci\u00f3n para convertirse en creadoras de tecnolog\u00eda en vez de consumidoras.\r\n\r\n**Epicademy** Es una serie de cursos que se enfocan en dos audiencias: ni\u00f1as de 7 a 12 a\u00f1os que deseean aprender sobre ciencias, c\u00f3digo y rob\u00f3tica. Mujeres de 18 a\u00f1os en adelante que desean aprender sobre tecnolog\u00eda en diferentes \u00e1reas y funciones.", 
   "source": null, 
