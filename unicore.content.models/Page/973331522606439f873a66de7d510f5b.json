@@ -1,24 +1,24 @@
 {
   "subtitle": "", 
-  "description": "Epic Queen Chapter\r\nCon este programa hacemos visibles mensualmente a 3 mujeres que ya est\u00e1n en la tecnolog\u00eda para que se conviertan en modelos de rol a seguir.\r\n\r\n", 
+  "description": "Meet-up mensual en diferentes ciudad del mundo en el cual hacemos visibles a 3 mujeres que ya est\u00e1n en la tecnolog\u00eda para que se conviertan en modelos de rol a seguir.\r\n", 
   "language": "spa_MX", 
   "title": "Epic Queen Chapter", 
   "primary_category": "56e674b380ef430bb6a68a1e01b00dea", 
   "created_at": "2015-09-03T14:26:16+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-03T17:21:28.553356+00:00", 
+  "modified_at": "2015-09-03T17:39:16.875234+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "973331522606439f873a66de7d510f5b"
   ], 
   "id": null, 
-  "content": "**Epic Queen Chapter** \r\nMeet-up mensual en diferentes ciudad del mundo en el cual hacemos visibles a 3 mujeres que ya est\u00e1n en la tecnolog\u00eda para que se conviertan en modelos de rol a seguir.", 
+  "content": "Un Chapter tiene como objetivo acercar a mujeres que son modelos de rol a seguir dentro del sector tecnol\u00f3gico en diferentes roles y diferentes funciones con personas que est\u00e1n interesadas en aprender, conocer e inspirarse para ser\r\n\r\nLa misi\u00f3n de un Chapter es promover los espacios inclusivos, acercar y fomentar el uso de la tecnolog\u00eda,  hacer visibles a las mujeres que ya est\u00e1n en la tecnolog\u00eda siguiendo el lema \"No puedes ser lo que no puedes ver\".\r\n\r\nOrganiza uno en tu ciudad, env\u00eda un correo a contacto@epicqueen.com", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
