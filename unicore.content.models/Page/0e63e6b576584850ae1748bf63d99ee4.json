@@ -6,12 +6,12 @@
   "primary_category": "56e674b380ef430bb6a68a1e01b00dea", 
   "created_at": "2015-09-03T18:14:35.721728+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-03T18:14:35.721942+00:00", 
+  "modified_at": "2015-09-03T19:57:12.158329+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "4b9122520ba048449d73f440910eab64", 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "epicademy", 
   "uuid": "0e63e6b576584850ae1748bf63d99ee4"
