@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_MX", 
+  "title": "M\u00e9rida", 
+  "primary_category": "4efc88f07b0841f39c0ad6f829220cd1", 
+  "created_at": "2015-09-03T22:19:02.039529+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-03T22:19:02.039711+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "[**M\u00e1s info**][1]\r\n\r\n[Otros eventos de Epic Queen][2]\r\n\r\n\r\n  [1]: https://www.facebook.com/EpicQueen.merida\r\n  [2]: https://boletia.com/cp/epic-queen", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "merida", 
+  "uuid": "b6c7f8cfb73449eda4b6d0e0efd30880"
+}
