@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_MX", 
+  "title": "UDEM", 
+  "primary_category": "9c30b60e0ecc4b1ab781c76e916d2458", 
+  "created_at": "2015-09-03T22:17:19.804393+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-03T22:17:19.804793+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Universidad de Monterrey\r\n\r\n**[M\u00e1s info][1]**\r\n\r\n[Otros eventos de Epic Queen][2]\r\n\r\n\r\n  [1]: https://www.facebook.com/equdem\r\n  [2]: https://boletia.com/cp/epic-queen", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "udem", 
+  "uuid": "d70c6e289fb247e8a281a5c62e91f791"
+}
