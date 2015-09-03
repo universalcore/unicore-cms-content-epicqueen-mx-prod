@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Es una serie de cursos que se enfocan en dos audiencias:\r\nNi\u00f1as de 7 a 12 a\u00f1os que deseean aprender sobre ciencias, c\u00f3digo y rob\u00f3tica. \r\nMujeres de 18 a\u00f1os en adelante que desean aprender sobre tecnolog\u00eda en diferentes \u00e1reas y funciones.", 
+  "language": "spa_MX", 
+  "title": "Epicademy", 
+  "primary_category": "56e674b380ef430bb6a68a1e01b00dea", 
+  "created_at": "2015-09-03T18:14:35.721728+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-03T18:14:35.721942+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Hoy en d\u00eda la tecnolog\u00eda est\u00e1 presente en nuestras vidas y est\u00e1 cambiando la forma en la que percibimos el mundo que nos rodea. Gracias a la creaci\u00f3n de nuevas herramientas digitales y tecnol\u00f3gicas podemos generar, inventar las soluciones del presente y del futuro.\r\n\r\n\u00a1Esta rama no es solo para geeks, es para todas las personas por lo que tiene que estar hecha por tod@s!\r\n\r\n**Aprende las bases de  programaci\u00f3n**\r\n\u00bfQu\u00e9 es aprender a programar?\r\nUna computadora es una m\u00e1quina con   extraordinarias capacidades (para realizar c\u00e1lculos matem\u00e1ticos, mostrar gr\u00e1ficos e im\u00e1genes, procesar y almacenar datos, etc.) pero incapaz de hacer nada por s\u00ed mismo  esa potencialidad est\u00e1 a la espera de que una persona (nosotros) le saque partido y, para ello lo \u00fanico que hace falta es proporcionarle instrucciones a la m\u00e1quina.\r\n\r\n**\u00bfPor qu\u00e9 sirve?**\r\n\u00a1PARA TODO!\r\nDebido a que las computadoras pueden contribuir en la casi todas las actividades que realiza el ser humano, y que la programaci\u00f3n es lo que las hace funcionar , aprender a programar puede ser una habilidad muy importante para el futuro. Desde hacer un videojuego, controlar el tr\u00e1fico y salvar una vida.\r\n\r\nAdem\u00e1s, la programaci\u00f3n fortalece el pensamiento l\u00f3gico y creativo.  Imagina lo que pasar\u00eda si tu hij@ desde temprana edad supiera crear soluciones a los problemas que encuentre aprovechando la tecnolog\u00eda? Su imaginaci\u00f3n y sus ideas nunca se limitar\u00edan. \r\n\r\nEpicademy ayuda a desarrollar todo su potencial ense\u00f1ando a los ni\u00f1as y a los ni\u00f1os a programar.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "4b9122520ba048449d73f440910eab64", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "epicademy", 
+  "uuid": "0e63e6b576584850ae1748bf63d99ee4"
+}
