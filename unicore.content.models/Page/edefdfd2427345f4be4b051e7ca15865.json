@@ -1,17 +1,17 @@
 {
-  "subtitle": "This is the subtitle", 
-  "description": "This is the description", 
+  "subtitle": "Epic Queen Chapter", 
+  "description": "With this program we seen 3 monthly women already in technology to become role models to follow.", 
   "language": "eng_GB", 
-  "title": "This is a sample program", 
+  "title": "Epic Queen Chapter", 
   "primary_category": "ddd3f6c68213422b90a2d23a51efa941", 
   "created_at": "2015-06-01T15:07:04+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-06-01T15:08:29.436039+00:00", 
+  "modified_at": "2015-09-03T00:20:39.002548+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": null, 
   "position": 0, 
-  "image_host": "http://qa.thumbor.unicore.io", 
-  "slug": "sample-program", 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "chapter", 
   "uuid": "edefdfd2427345f4be4b051e7ca15865"
 }
