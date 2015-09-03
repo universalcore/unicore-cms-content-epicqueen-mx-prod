@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_MX", 
+  "title": "Ensenada", 
+  "primary_category": "9c30b60e0ecc4b1ab781c76e916d2458", 
+  "created_at": "2015-09-03T21:56:25.841317+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-09-03T21:56:25.841497+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "4to jueves del mes\r\n7:30 pm - 10:00 pm  \r\nHUB CENTER ENSENADA\r\nCalle Tercera & Avenida Rayon, Obrera, 22830 Ensenada, B.C., M\u00e9xico\r\n\r\nEntrada Gratuita\r\n\r\n[M\u00e1s info][1]\r\n\r\n[Otros eventos de Epic Queen][2]\r\n\r\n\r\n  [1]: https://www.facebook.com/epicqueenensenada?ref=br_rs\r\n  [2]: https://boletia.com/cp/epic-queen", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "ensenada", 
+  "uuid": "0f71e4b627414e2b93566c2079463ffc"
+}
